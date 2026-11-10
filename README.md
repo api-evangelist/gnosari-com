@@ -1,4 +1,4 @@
-# gnosari-com
+# Gnosari
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,115 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-gnosari-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://gnosari.com/
+Gnosari provides AI-powered intake, surveys and FAQs in conversation, enabling businesses to collect detailed information via links or QR codes without traditional forms. The platform offers a conversational interface that captures user responses, streamlines data collection, and integrates with existing workflows.
+
+**Areas:** AI · Conversation · Surveys · Data Collection · Integration
+
+## Gnosari on APIs.io
+
+Everything profiled for Gnosari is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/gnosari-com/](https://apis.io/providers/gnosari-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Gnosari API](https://apis.io/apis/gnosari-com/gnosari-api/) — API for Gnosari platform providing conversational intake and survey capabilities.
+- [Gnosari API](https://apis.io/apis/gnosari-com/gnosari-com-api/) — Gnosari API as documented publicly: 3 operations. Contract generated from the documentation by API Evangelist (2026-11-10); not the provider's own document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (4)
+
+The data models the API reads and writes.
+
+- [PostHooksCatchCatchidAbcdefRequest](https://apis.io/schemas/gnosari-com/gnosari-com-post-hooks-catch-catchid-abcdef-request/)
+- [PostHooksCatchCatchidBcdefghRequest](https://apis.io/schemas/gnosari-com/gnosari-com-post-hooks-catch-catchid-bcdefgh-request/)
+- [PostHooksCatchCatchidBcdefghResponse](https://apis.io/schemas/gnosari-com/gnosari-com-post-hooks-catch-catchid-bcdefgh-response/)
+- [PostHooksCatchCatchidInsuredRequest](https://apis.io/schemas/gnosari-com/gnosari-com-post-hooks-catch-catchid-insured-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Gnosari Com Context](https://apis.io/jsonld/gnosari-com/gnosari-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Gnosari API Rules](https://apis.io/rules/gnosari-com/gnosari-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Gnosari Domain Security](https://apis.io/security/gnosari-com/gnosari-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://gnosari.com/)
+- [Documentation](https://docs.gnosari.com/)
+- [Getting started](https://gnosari.com/blog/reduce-agency-onboarding-time-ai)
+- [Pricing](https://gnosari.com/pricing)
+- [Blog](https://gnosari.com/blog)
+- [Terms of service](https://gnosari.com/terms)
+- [Privacy policy](https://gnosari.com/privacy)
+- [GitHub](https://github.com/gnosari)
+
+## API Evangelist rating
+
+**Kin Score 42.7** — developing · rubric 0.27.0 · scored 2026-11-10
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 45.2 |
+| Contract governance | 79.1 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 23.8 |
+| Access clarity | 44.7 |
+
+**Agent readiness 32.6** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/gnosari-com/](https://apis.io/providers/gnosari-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Gnosari: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/gnosari-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
